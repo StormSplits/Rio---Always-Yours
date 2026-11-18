@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "Replace with release notes before publishing.",
+  "pub_date": "2026-11-18T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "REPLACE_WITH_THE_CONTENTS_OF_THE_GENERATED_SIG_FILE",
+      "url": "https://github.com/StormSplits/Rio---Always-Yours/releases/download/v0.1.1/Rio_0.1.1_x64-setup.exe"
+    }
+  }
+}
